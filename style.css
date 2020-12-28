@@ -1,4 +1,6 @@
-img{width=150px} >> style.css
-
-clear
-
+p{
+    width: auto;
+}
+img{
+    width: 150px;
+}
