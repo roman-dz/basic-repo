@@ -1,5 +1,5 @@
 # ignores any file named "secret.txt"
-secret.js
+secret.txt
 # ignores any directory named "packages"
 packages/
 # ignores a file named "hidden.txt" located at the root of your working directory
@@ -12,3 +12,5 @@ packages/
 cache*
 # ignores any file or directory that ends in "data", such as project_data/, big_file_of_data
 *data
+# ignores any file or directory that starts with "data", such as data_project/, data_big_pile
+data*

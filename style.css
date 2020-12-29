@@ -1,3 +1,5 @@
+/* testing */
+
 p{
     width: auto;
 }
@@ -6,4 +8,7 @@ img{
 }
 div{
     display: inline-block;
+}
+.new_class{
+    width: 100000px;
 }
