@@ -4,3 +4,6 @@ p{
 img{
     width: 150px;
 }
+div{
+    display: inline-block;
+}
